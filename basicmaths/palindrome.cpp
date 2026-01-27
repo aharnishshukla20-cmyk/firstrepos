@@ -12,6 +12,7 @@ int count(int n){
 }
 int main(){
     cout<<"enter a number";
+    cout<<"my name is dipak raj";
     cout<<endl;
     int x;
     cin>>x;
